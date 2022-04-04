@@ -49,7 +49,6 @@
 <p align="center">
 <a href="https://www.instagram.com/oday__ala/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-oday__ala-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/ouday.alashoush/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Oday Alashoush-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.linkedin.com/in/oday-alashoush/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-oday-alashoush-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://github.com/oday-ala"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-oday-ala-blue?style=flat-square&logo=gitlab"></a>
+<a href="https://www.linkedin.com/in/oday-alashoush/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oday%20Alashoush-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:oudayalashoush15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oudayalashoush15-blue?style=flat-square&logo=gmail"></a>
 </p>
