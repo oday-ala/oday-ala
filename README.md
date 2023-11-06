@@ -4,9 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Pandit Deendayal Energy University.
-- 🔭 &nbsp; I’m currently learning everything.
-- 🌱 &nbsp; Learning more about Cyber Security.
+- 🎓 &nbsp; Studying Cybersecurity at Sapienza University.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
